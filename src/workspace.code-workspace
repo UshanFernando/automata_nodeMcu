@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "arduino_automata",
+			"path": "C:\\Users\\Ushan Fernando\\Documents\\PlatformIO\\Projects\\arduino_automata"
+		},
+		{
+			"name": "node_automata",
+			"path": "C:\\Users\\Ushan Fernando\\Documents\\PlatformIO\\Projects\\node_automata"
+		},
+		{
+			"name": "Gesture_test_nano",
+			"path": "C:\\Users\\Ushan Fernando\\Documents\\PlatformIO\\Projects\\Gesture_test_nano"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
